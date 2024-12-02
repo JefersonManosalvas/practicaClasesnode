@@ -1,0 +1,11 @@
+{
+  "name": "practicas",
+  "version": "1.0.0",
+  "description": "practica uno en clases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeferson_Manosalvas",
+  "license": "ISC"
+}
